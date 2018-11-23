@@ -1,0 +1,14 @@
+cadeira
+cama casal
+cama solteiro
+ducha
+fogao 2 bocas
+fogao 4 bocas
+geladeira
+pia banheiro
+pia cozinha
+poltrona
+sofa 2 lugares
+sofa 3 lugares
+sofa canto
+wc

@@ -1,0 +1,4 @@
+#Fri Nov 23 10:02:03 BRST 2018
+base.0=F\:\\Backup\\tfmobile\\gradleBuild\\intermediates\\transforms\\dexMerger\\debug\\2
+renamed.0=classes.dex
+file.0=F\:\\Backup\\tfmobile\\gradleBuild\\intermediates\\transforms\\dexMerger\\debug\\2\\classes.dex

@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "F:\\Backup\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_tile.9.png.flat",
+        "source": "F:\\Backup\\tfmobile\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "F:\\Backup\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_info.png.flat",
+        "source": "F:\\Backup\\tfmobile\\res\\drawable-xhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "F:\\Backup\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Backup\\tfmobile\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Backup\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_activity_camera.xml.flat",
+        "source": "F:\\Backup\\tfmobile\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "F:\\Backup\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Backup\\tfmobile\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Backup\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_icon.png.flat",
+        "source": "F:\\Backup\\tfmobile\\res\\mipmap-xxxhdpi\\ic_icon.png"
+    },
+    {
+        "merged": "F:\\Backup\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_info.png.flat",
+        "source": "F:\\Backup\\tfmobile\\res\\drawable-xxhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "F:\\Backup\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_icon.png.flat",
+        "source": "F:\\Backup\\tfmobile\\res\\mipmap-xhdpi\\ic_icon.png"
+    },
+    {
+        "merged": "F:\\Backup\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_icon.png.flat",
+        "source": "F:\\Backup\\tfmobile\\res\\mipmap-xxhdpi\\ic_icon.png"
+    },
+    {
+        "merged": "F:\\Backup\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_camera_connection_fragment.xml.flat",
+        "source": "F:\\Backup\\tfmobile\\res\\layout\\camera_connection_fragment.xml"
+    },
+    {
+        "merged": "F:\\Backup\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_info.png.flat",
+        "source": "F:\\Backup\\tfmobile\\res\\drawable-hdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "F:\\Backup\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_camera_connection_fragment_tracking.xml.flat",
+        "source": "F:\\Backup\\tfmobile\\res\\layout\\camera_connection_fragment_tracking.xml"
+    },
+    {
+        "merged": "F:\\Backup\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_camera_connection_fragment_stylize.xml.flat",
+        "source": "F:\\Backup\\tfmobile\\res\\layout\\camera_connection_fragment_stylize.xml"
+    },
+    {
+        "merged": "F:\\Backup\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\Backup\\tfmobile\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Backup\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "F:\\Backup\\tfmobile\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\Backup\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_icon.png.flat",
+        "source": "F:\\Backup\\tfmobile\\res\\mipmap-mdpi\\ic_icon.png"
+    },
+    {
+        "merged": "F:\\Backup\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\Backup\\tfmobile\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Backup\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_icon.png.flat",
+        "source": "F:\\Backup\\tfmobile\\res\\mipmap-hdpi\\ic_icon.png"
+    },
+    {
+        "merged": "F:\\Backup\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\Backup\\tfmobile\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Backup\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_info.png.flat",
+        "source": "F:\\Backup\\tfmobile\\res\\drawable-mdpi\\ic_action_info.png"
+    }
+]

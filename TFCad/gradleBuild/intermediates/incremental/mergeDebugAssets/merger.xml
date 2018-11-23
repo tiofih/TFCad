@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\Backup\tfmobile\assets"><file name="graph.pb" path="F:\Backup\tfmobile\assets\graph.pb"/><file name="labels.txt" path="F:\Backup\tfmobile\assets\labels.txt"/></source><source path="F:\Backup\tfmobile\gradleBuild\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\Backup\tfmobile\build-types\debug\assets"/></dataSet></merger>
